@@ -1,0 +1,19 @@
+{
+  "name": "SAPUI5",
+  "description": "SAPUI5 on SCN",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "*://scn.sap.com/community/developer-center/front-end/content"
+    ],
+    "launch": {
+      "web_url": "http://scn.sap.com/community/developer-center/front-end/content"
+    }
+  },
+  "icons": {
+    "128": "icon_100.png"
+  },
+  "permissions": [
+  ]
+}
